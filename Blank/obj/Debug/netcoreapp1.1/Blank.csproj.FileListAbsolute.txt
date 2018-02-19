@@ -1,0 +1,9 @@
+C:\Users\vfeli\Downloads\Blank.Solution\Blank\bin\Debug\netcoreapp1.1\Blank.deps.json
+C:\Users\vfeli\Downloads\Blank.Solution\Blank\bin\Debug\netcoreapp1.1\Blank.runtimeconfig.json
+C:\Users\vfeli\Downloads\Blank.Solution\Blank\bin\Debug\netcoreapp1.1\Blank.runtimeconfig.dev.json
+C:\Users\vfeli\Downloads\Blank.Solution\Blank\obj\Debug\netcoreapp1.1\Blank.csproj.CoreCompileInputs.cache
+C:\Users\vfeli\Downloads\Blank.Solution\Blank\obj\Debug\netcoreapp1.1\Blank.AssemblyInfo.cs
+C:\Users\vfeli\Downloads\Blank.Solution\Blank\bin\Debug\netcoreapp1.1\Blank.dll
+C:\Users\vfeli\Downloads\Blank.Solution\Blank\bin\Debug\netcoreapp1.1\Blank.pdb
+C:\Users\vfeli\Downloads\Blank.Solution\Blank\obj\Debug\netcoreapp1.1\Blank.dll
+C:\Users\vfeli\Downloads\Blank.Solution\Blank\obj\Debug\netcoreapp1.1\Blank.pdb
